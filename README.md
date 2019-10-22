@@ -1,6 +1,7 @@
 YO THIS IS MY ROBOSAPIEN PROJECT, FORKED FROM SOME OLD REPO
 Things to be done:
 
+	Add some super rad ASCII Art
 	Web interface(pull from chandler's robot and push to this one)
 	Implement Walk forward, walk backward, turn left, and turn right
 		See the python scripts on how to move
